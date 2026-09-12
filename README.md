@@ -19,22 +19,3 @@ Ringkasan Program
 5. Tugas Utama: Kalkulator Koordinat (tugas/kalkulator_koordinat.py)
  * Deskripsi: Menghitung perubahan koordinat, jarak Euclidean, serta titik tengah (midpoint) dari dua titik A(x_1, y_1) dan B(x_2, y_2).
  * Batasan Program: Ditulis secara berurutan (sequential) tanpa menggunakan pernyataan kondisional (if), perulangan (loop), fungsi buatan sendiri (def), maupun pustaka eksternal.
- * Rumus Utama:
-   * Selisih Koordinat: dx = x_2 - x_1, dy = y_2 - y_1
-   * Jarak Euclidean: \text{jarak} = \sqrt{(dx)^2 + (dy)^2}
-   * Titik Tengah: \left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}\right)
-💻 Cara Menjalankan Program
- * Clone repositori ini:
-   git clone [https://github.com/username-anda/nama-repositori.git](https://github.com/username-anda/nama-repositori.git)
-cd nama-repositori
-
- * Jalankan berkas latihan atau tugas (contoh):
-   python latihan/01_biodata.py
-python tugas/kalkulator_koordinat.py
-
-
----
-
-### 💡 Tips Sebelum Mengunggah ke GitHub:
-1. Buat berkas baru bernama `README.md` di folder utama (root) repositori proyekmu.
-2. Salin teks markdown di atas lalu sesuaikan link `git clone` dengan akun GitHub-mu.
